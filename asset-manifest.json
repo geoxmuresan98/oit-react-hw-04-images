@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geoxmuresan98/oit-react-hw-04-images/static/css/main.25f34f5e.css",
+    "main.js": "/geoxmuresan98/oit-react-hw-04-images/static/js/main.b9472834.js",
+    "index.html": "/geoxmuresan98/oit-react-hw-04-images/index.html",
+    "main.25f34f5e.css.map": "/geoxmuresan98/oit-react-hw-04-images/static/css/main.25f34f5e.css.map",
+    "main.b9472834.js.map": "/geoxmuresan98/oit-react-hw-04-images/static/js/main.b9472834.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f34f5e.css",
+    "static/js/main.b9472834.js"
+  ]
+}
